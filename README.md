@@ -1,6 +1,6 @@
 # WCPFC Geographical Areas
 
-A repository of WKT definitions for the key WCPFC geographical areas including EEZ boundaries and hisgh seas areas within the WCPFC Convention Area
+A repository of WKT definitions for the key WCPFC geographical areas including EEZ boundaries and high seas areas within the WCPFC Convention Area
 
 Each file consists to the metadata for each area and a WKT definition of the boundary.
 
